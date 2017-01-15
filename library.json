@@ -1,0 +1,13 @@
+{
+  "name": "PWM by Sam Knight",
+  "authors": "Sam Knight",
+  "keywords": "timer",
+  "description": "Modify PWM on AVR (arduino) platform",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terryjmyers/PWM.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
+
