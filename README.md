@@ -13,6 +13,7 @@ Modified by Terry Myers:
 1. Modified examples to be in their own folders
 2. Corrected a line feed character in two of the libraries so that visual studio would not error when opening them
 3. Added README.MD, library.properties, and library.json files to better "integrate" to IDEs espencially Arduino IDE for begginers
+4. Added new example for high resolution control of an LED
 
 Note: NO functional code was modified AT ALL from v5 of Sam Knights (runnerup on Arduino forums) code, I just packaged it a little better since it hasn't been modified in years'
 
