@@ -4,14 +4,11 @@ v 5.0
 
 Created by Sam Knight
 
-Change the frequency from the wiring library default(600hz) and hence the resolution.
+Modify PWM frequency on AVR (arduino) platform
 
 
 
-
-
-
-	Modified by Terry Myers 
+Modified by Terry Myers:
 
 1. Modified examples to be in their own folders
 2. Corrected a line feed character in two of the libraries so that visual studio would not error when opening them
@@ -21,5 +18,3 @@ Note: NO functional code was modified AT ALL from v5 of Sam Knights (runnerup on
 
 Original repository
 https://code.google.com/archive/p/arduino-pwm-frequency-library/downloads
-
-
